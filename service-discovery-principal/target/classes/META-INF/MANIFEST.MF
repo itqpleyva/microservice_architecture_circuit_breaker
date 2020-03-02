@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: service-discovery-principal
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: itqpleyva
+Implementation-Vendor-Id: com.itqpleyva
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/service-discovery-principal
+Created-By: Maven Integration for Eclipse
+
