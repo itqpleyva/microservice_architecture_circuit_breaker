@@ -1,4 +1,0 @@
-microservice\Model\Movie.class
-microservice\Controllers\MovieController.class
-microservice\Main.class
-microservice\Repository\MovieRepository.class
